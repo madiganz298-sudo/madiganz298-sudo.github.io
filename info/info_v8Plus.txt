@@ -2,11 +2,12 @@
 'script': 'myabgynj298-ixao.gbtzxs.bo',
 'script': 'myabgynj298-ixao.gbtzxs.bo',
 'script': 'myabgynj298-ixao.gbtzxs.bo',
-'files': 'myabgynj298-ixao.gbtzxs.bo',
-'files': 'myabgynj298-ixao.gbtzxs.bo',
+'files': 'madiganz298-sudo.github.io',
+'files': 'madiganz298-sudo.github.io',
 'UP': '768776e296b6f286f226f6e266b6d676f647e226e6b667d28393237716c647f6e6c6a7',
 'A': '768776e2d667c6d66767270707c6f286f226f6e266b6d676f647e226e6b667d28393237716c647f6e6c6a7',
 'M': '768776e286160757a7f286f226f6e266b6d676f647e226e6b667d28393237716c647f6e6c6a7',
 }
+
 
 
